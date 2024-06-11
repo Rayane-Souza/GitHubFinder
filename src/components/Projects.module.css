@@ -1,0 +1,19 @@
+
+
+.button-like {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    background-color: #6A1B9A;
+    color: #FFF;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .button-like:hover {
+    background-color: #8747D2;
+  }
+  
